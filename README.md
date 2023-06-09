@@ -1,1 +1,2 @@
 # odin-recipes
+In this simple HTML project, we have curated a delightful collection of three iconic recipes from the beloved TV show, Twin Peaks. Immerse yourself in the culinary world of the mysterious town, as we guide you through the preparation of these delectable dishes. Whether you're a die-hard fan or simply curious about the show, this project offers a tasty exploration of Twin Peaks' gastronomic delights. So grab your apron, prepare your ingredients, and get ready to experience the flavors that made Twin Peaks unforgettable!
